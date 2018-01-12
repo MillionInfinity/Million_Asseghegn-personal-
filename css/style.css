@@ -1,1 +1,89 @@
-/*my main style sheet*/
+
+body {
+    font-family: 'varela round', sans-serif;
+    line-height: 1.6;
+}
+
+.bg {
+    background-image: url(images\_dsc4424b.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main_header{
+    padding-top: 1.5em;
+    min-width: 99px; 
+    display: inline;  
+}
+header{
+    margin: -10px;
+    padding: -5px;
+}
+
+.hhead {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1 {
+    font-family: 'Impact', Haettenschweiler, Arial, sans-serif;
+    font-size: 80px;
+    color: rgb(185, 182, 179);
+    position: relative;
+}
+
+
+
+.name,
+.main_nav li {
+font-size: .95em;
+
+}
+.main_nav a {
+    font-size: .
+}
+.main_nav {
+float: none;
+margin:100px;
+padding: 5px;
+display: inline;
+}
+
+.main_nav:hover {
+    transform: matrix3d(2);
+}
+
+p {
+    font-size: .95em;
+    margin-bottom: 1.5em;
+}
+
+h2,
+a {
+color: maroon;
+margin-top: 0;
+}
+
+.main{
+margin-top: -10px;
+padding-top: -5px;
+}
+
+
+.main-footer {
+    text-align: center;
+    padding: 2em 0;
+
+}
+.logo{
+    display: inline;
+    margin-left: 20px;
+}
+
+
+ ul{
+    display: inline;
+
+ }
+ 
